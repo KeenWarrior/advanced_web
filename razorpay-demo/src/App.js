@@ -10,7 +10,7 @@ function App() {
 
   const handlePayment = async () => {
     const options = {
-      order_id: "order_NhNzpJGcdPxwMi"
+      order_id: "order_NhkZkAq6JVgFOL"
     }
 
     const paymentObject = new Razorpay(options);
